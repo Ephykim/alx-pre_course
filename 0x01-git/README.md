@@ -1,1 +1,1 @@
-This project is a guided project from ALX SE program
+This directory contains contents of the git project that are in collaboration with a group of co-workers.
